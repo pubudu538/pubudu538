@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at [WSO2](https://wso2.com/) as a Senior Technical Lead. I graduated from the University of Moratuwa, Sri Lanka specializing in Computer Science and Engineering.
+I am currently working at [WSO2](https://wso2.com/) as an Architect. I graduated from the University of Moratuwa, Sri Lanka specializing in Computer Science and Engineering.
 
 <br/>
 
